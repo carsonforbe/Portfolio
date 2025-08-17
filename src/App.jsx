@@ -316,7 +316,7 @@ export default function App() {
                     id="message" 
                     rows="4" 
                     className="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-transparent"
-                    placeholder="Your message..."
+                    placeholder="Your message...(email functionality not implemented yet...)"
                   ></textarea>
                 </div>
                 
